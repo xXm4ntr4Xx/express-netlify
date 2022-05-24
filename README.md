@@ -9,7 +9,7 @@
 
 <img width="286" alt="Screenshot 2022-05-24 at 14 29 42" src="https://user-images.githubusercontent.com/74420607/170046976-523f0d91-534b-4c8a-8e46-f90caa14e38a.png">
 <hr>
-netlify-lamda(server our function locally and compile the functions for production)
+netlify-lamda(serve our function locally and compile the functions for production)
 
 serverless-http(take our express app and convert it in a lambda function)
 <hr>
